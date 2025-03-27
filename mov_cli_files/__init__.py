@@ -10,7 +10,7 @@ plugin: PluginHookData = {
     "version": 1, 
     "scrapers": {
         "DEFAULT": FilesScraper,
-        "fscraper": FilesScraper,
+        "files": FilesScraper,
     }
 }
 
